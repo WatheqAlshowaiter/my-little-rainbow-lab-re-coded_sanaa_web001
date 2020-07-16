@@ -10,29 +10,29 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-.violet {
+#violet {
   border-top: 20px solid violet;
 }
 
-.indigo {
+#indigo {
   border-top: 20px solid indigo;
 }
 
-.blue {
+#blue {
   border-top: 20px solid blue;
 }
 
-.green {
+#green {
   border-top: 20px solid green;
 }
-.yellow {
+#yellow {
   border-top: 20px solid yellow;
 }
 
-.orange {
+#orange {
   border-top: 20px solid orange;
 }
-.red {
+#red {
   border-top: 20px solid red;
 }
 /* To get ROYGBIV onto our rainbow we'll need seven hex colors. Red:
